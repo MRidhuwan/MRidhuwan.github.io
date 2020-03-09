@@ -13,7 +13,7 @@
     }
 
     .site-main .site-banner .site-title h1 {
-        font-size: 38px;
+        font-size: 38vw;
     }
 
     .site-main .subscribe-us-area .subscribe form .input-textbox input {
@@ -30,7 +30,7 @@
 /* if the viewport is equal to 340px or less than that */
 @media only screen and (max-width: 792px) {
     .site-main .about-area .about-title h2>span {
-        font-size: 31px;
+        font-size: 31vw;
         letter-spacing: 10px;
     }
 
