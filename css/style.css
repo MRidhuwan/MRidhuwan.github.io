@@ -3,10 +3,10 @@
 
 
 /* css variables */
-@import url(./partials/_variables.css);
+@import url(./partials/variables.css);
 
 /* import global styling */
-@import url(./partials/_global.css);
+@import url(./partials/global.css);
 
 
 /* start navigation */
@@ -65,11 +65,11 @@
 }
 
 .site-main .site-banner .site-title h1 {
-    font-size: 5vw;
+    font-size: 5rem;
 }
 
 .site-main .site-banner .site-title h4 {
-    font-size: 1vw;
+    font-size: 1rem;
 }
 
 .site-main .site-banner .banner-image>img {
@@ -191,7 +191,7 @@
 }
 
 .site-main .services-area .services-title h1 {
-    font-size: 35vw;
+    font-size: 35px;
 }
 
 .site-main>.services-area .services {
@@ -265,7 +265,7 @@
 }
 
 .site-main .about-area .client .about-client p {
-    font-size: 14vw;
+    font-size: 14px;
 }
 
 .site-main .about-area .owl-carousel .owl-item {
@@ -308,7 +308,7 @@ footer.footer-area .social h5 {
 }
 
 footer.footer-area .social a>i {
-    font-size: 22vw;
+    font-size: 22px;
     padding: 2rem;
     color: var(--border-color);
 }
