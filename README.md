@@ -28,7 +28,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/MRidhuwan/Best-README-Template">
+  <a href="https://github.com/MRidhuwan/MRidhuwan.github.io">
     <img src="images/photoweb.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -81,7 +81,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/MRidhuwan/MRidhuwan.github.io/images/photoweb.png)
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
@@ -124,14 +124,14 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
-3. Install NPM packages
+<!-- 3. Install NPM packages
    ```sh
    npm install
    ```
 4. Enter your API in `config.js`
    ```JS
    const API_KEY = 'ENTER YOUR API';
-   ```
+   ``` -->
 
 
 
