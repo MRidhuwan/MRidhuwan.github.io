@@ -1,6 +1,6 @@
 @import "./_loader.css";
 @import "./_global.css";
-@import "./_navbar.css";
+@import "./navbar.css";
 @import "./_footer.css";
 @import "./_hero.css";
 @import "./lightbox.min.css";
