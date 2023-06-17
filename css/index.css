@@ -1,11 +1,11 @@
-@import "./_loader.css";
-@import "./_global.css";
+@import "./loader.css";
+@import "./global.css";
 @import "./navbar.css";
-@import "./_footer.css";
-@import "./_hero.css";
+@import "./footer.css";
+@import "./hero.css";
 @import "./lightbox.min.css";
-@import "./_film.css";
-@import "./_premier.css";
+@import "./film.css";
+@import "./premier.css";
 
 
 
@@ -13,4 +13,4 @@
 @import "./owl.carousel.min.css";
 @import "./owl.theme.default.min.css";
 
-@import "./_media-query.css";
+@import "./media-query.css";
