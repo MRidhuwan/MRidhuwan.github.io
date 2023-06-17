@@ -1,0 +1,16 @@
+@import "./_loader.css";
+@import "./_global.css";
+@import "./_navbar.css";
+@import "./_footer.css";
+@import "./_hero.css";
+@import "./lightbox.min.css";
+@import "./_film.css";
+@import "./_premier.css";
+
+
+
+/* Owl Carousel*/
+@import "./owl.carousel.min.css";
+@import "./owl.theme.default.min.css";
+
+@import "./_media-query.css";
