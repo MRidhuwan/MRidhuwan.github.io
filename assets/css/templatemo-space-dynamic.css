@@ -1385,11 +1385,13 @@ contact
   margin-right: 15px;
 }
 
+
 .phone-info h4 span a {
-  color: #fff;
+  color: #08d215;
   font-size: 15px;
   font-weight: 400;
 }
+
 
 form#contact .contact-dec {
   position: absolute;
